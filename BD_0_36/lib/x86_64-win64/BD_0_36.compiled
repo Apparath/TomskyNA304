@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1317892579"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\qp_db\Documents\BD_0_36\lib\x86_64-win64 -FuC:\Users\qp_db\Documents\BD_0_36\ -FUC:\Users\qp_db\Documents\BD_0_36\lib\x86_64-win64\ -FEC:\Users\qp_db\Documents\BD_0_36\ -oC:\Users\qp_db\Documents\BD_0_36\BD_0_36.exe BD_0_36.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

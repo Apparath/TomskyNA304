@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="BD_0_36.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="10" Y="3"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="menu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Menu"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="7" Y="28"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="BD_0_36.lpr"/>
+        <Caret Line="3" Column="10"/>
+      </Position1>
+      <Position2>
+        <Filename Value="menu.pas"/>
+        <Caret Line="10" Column="20" TopLine="5"/>
+      </Position2>
+      <Position3>
+        <Filename Value="menu.pas"/>
+        <Caret Line="5" Column="24" TopLine="16"/>
+      </Position3>
+      <Position4>
+        <Filename Value="menu.pas"/>
+        <Caret Line="11" Column="37" TopLine="4"/>
+      </Position4>
+      <Position5>
+        <Filename Value="menu.pas"/>
+        <Caret Line="14" Column="61" TopLine="7"/>
+      </Position5>
+      <Position6>
+        <Filename Value="menu.pas"/>
+        <Caret Line="12" Column="13" TopLine="17"/>
+      </Position6>
+      <Position7>
+        <Filename Value="menu.pas"/>
+        <Caret Line="5" Column="22" TopLine="13"/>
+      </Position7>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
